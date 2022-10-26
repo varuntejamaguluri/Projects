@@ -1,0 +1,5 @@
+find . -name "*.class" -exec rm -rf {} \;
+find . -name "*__SHELL*.java" -exec rm -f {} \;
+
+javac main/java/com/BrickBreaker.java
+java main.java.com.BrickBreaker
