@@ -1,0 +1,128 @@
+1652154127479	geckodriver	INFO	Listening on 127.0.0.1:52226
+1652154323754	geckodriver	INFO	Listening on 127.0.0.1:52321
+1652154323962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52322" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofilesKdsjS"
+1652154324565	Marionette	INFO	Marionette enabled
+2022-05-09 20:45:24.661 plugin-container[33026:760359] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:45:24.662 plugin-container[33026:760359] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:45:24.668 plugin-container[33026:760359] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:45:24.668 plugin-container[33026:760359] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:45:24.669 plugin-container[33026:760414] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:45:24.669 plugin-container[33026:760414] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofilesKdsjS/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52322/devtools/browser/cce486b2-bf42-4fba-aac2-5ac13a320a01
+1652154326035	Marionette	INFO	Listening on port 52340
+Read port: 52340
+1652154326051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/0dd3bc9583fec81c81f70b592672c367.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1652154463642	geckodriver	INFO	Listening on 127.0.0.1:52512
+1652154463816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52513" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileO1PhqR"
+2022-05-09 20:47:44.189 plugin-container[33088:762606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:47:44.189 plugin-container[33088:762606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:47:44.191 plugin-container[33088:762606] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:47:44.191 plugin-container[33088:762606] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:47:44.192 plugin-container[33088:762613] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:47:44.192 plugin-container[33088:762613] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652154464207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileO1PhqR/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52513/devtools/browser/1ce14835-9b72-42ae-a13a-2b4bf8ef103c
+1652154465475	Marionette	INFO	Listening on port 52526
+Read port: 52526
+1652154465497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/0dd3bc9583fec81c81f70b592672c367.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+1652154645003	Marionette	INFO	Stopped listening on port 52526
+1652154648566	Marionette	INFO	Stopped listening on port 52340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652154655701	geckodriver	INFO	Listening on 127.0.0.1:52656
+1652154655870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52657" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileGlo2oP"
+2022-05-09 20:50:56.233 plugin-container[33149:765012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:50:56.233 plugin-container[33149:765012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:50:56.236 plugin-container[33149:765012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:50:56.236 plugin-container[33149:765012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:50:56.236 plugin-container[33149:765019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:50:56.236 plugin-container[33149:765019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652154656256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileGlo2oP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52657/devtools/browser/ffc7e8f4-eb98-4d78-8a61-d9abde5518d6
+1652154657565	Marionette	INFO	Listening on port 52673
+Read port: 52673
+1652154657640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/0dd3bc9583fec81c81f70b592672c367.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+1652155064784	Marionette	INFO	Stopped listening on port 52673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PClientManager::Msg_Teardown) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PClientManager::Msg_Teardown) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652155068364	geckodriver	INFO	Listening on 127.0.0.1:52794
+1652155068538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52795" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileQHONUQ"
+2022-05-09 20:57:48.894 plugin-container[33253:771457] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:57:48.894 plugin-container[33253:771457] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:57:48.897 plugin-container[33253:771457] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:57:48.897 plugin-container[33253:771457] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 20:57:48.897 plugin-container[33253:771463] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 20:57:48.897 plugin-container[33253:771463] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652155068912	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/4t/1n9cm6zx7hq4lfn17z1sd4vm0000gn/T/rust_mozprofileQHONUQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52795/devtools/browser/31b4f0e3-f59e-4e5c-97dd-73f5345c744b
+1652155070233	Marionette	INFO	Listening on port 52812
+Read port: 52812
+1652155070316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://my.replika.ai"
+JavaScript warning: https://1925482343.rsc.cdn77.org/unity_web_engine/0dd3bc9583fec81c81f70b592672c367.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+JavaScript warning: , line 0: WebGL warning: clientWaitSync: ClientWaitSync must return TIMEOUT_EXPIRED until control has returned to the user agent's main loop. (only warns once)
+[ERROR osclientcerts_static] ThreadId(5) C_FindObjectsInit: CKR_ARGUMENTS_BAD: ExternalError at security/manager/ssl/osclientcerts/src/backend_macos.rs:921 (-25300)
+1652163494928	Marionette	INFO	Stopped listening on port 52812
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
