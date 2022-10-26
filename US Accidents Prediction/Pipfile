@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Flask = "==2.1.2"
+scikit-learn = ">=0.18"
+numpy = ">=1.9.2"
+scipy = ">=0.15.1"
+matplotlib = ">=1.4.3"
+pandas = ">=0.19"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
